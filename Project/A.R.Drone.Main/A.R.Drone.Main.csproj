@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD62AA72-D2DF-46BF-85C6-B264B13ECFBA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>A.R.Drone.Main</RootNamespace>
+    <AssemblyName>A.R.Drone.Main</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>arDroneIco.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\AForge.NET\IPLab\bin\AForge.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Controls">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\AForge.NET\IPLab\bin\AForge.Controls.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Imaging">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\AForge.NET\IPLab\bin\AForge.Imaging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Math">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\AForge.NET\IPLab\bin\AForge.Math.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FFmpeg.AutoGen">
+      <HintPath>..\FFmpeg.AutoGen\FFmpeg.AutoGen\bin\Release\FFmpeg.AutoGen.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="netchartdir_cp">
+      <HintPath>..\data\netchartdir_cp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Simple_HUD">
+      <HintPath>..\data\Simple_HUD.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SlimDX, Version=4.0.13.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tux.Controls">
+      <HintPath>..\data\Tux.Controls.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WebCam_Capture">
+      <HintPath>..\data\WebCam_Capture.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Barrel.cs" />
+    <Compile Include="DroneControl.cs" />
+    <Compile Include="DroneException.cs" />
+    <Compile Include="Instrument\HeadingIndicatorInstrumentControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Instrument\InstrumentControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IObservable.cs" />
+    <Compile Include="IObserver.cs" />
+    <Compile Include="JoystickDrone.cs" />
+    <Compile Include="MainWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWin.Designer.cs">
+      <DependentUpon>MainWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TreeViewHelper.cs" />
+    <Compile Include="UIClass\AboutARDrone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIClass\AboutARDrone.Designer.cs">
+      <DependentUpon>AboutARDrone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIClass\GraphHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIClass\GraphHistory.Designer.cs">
+      <DependentUpon>GraphHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIClass\JoystickDroneWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIClass\JoystickDroneWin.Designer.cs">
+      <DependentUpon>JoystickDroneWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIClass\OculusWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIClass\OculusWin.Designer.cs">
+      <DependentUpon>OculusWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIClass\SplashScreenDrone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIClass\SplashScreenDrone.Designer.cs">
+      <DependentUpon>SplashScreenDrone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIClass\Win3DPlot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIClass\Win3DPlot.Designer.cs">
+      <DependentUpon>Win3DPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIClass\WinFullScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIClass\WinFullScreen.Designer.cs">
+      <DependentUpon>WinFullScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VideoHelper.cs" />
+    <Compile Include="WebCam.cs" />
+    <Compile Include="Wifi\Interop.cs" />
+    <Compile Include="Wifi\WlanApi.cs" />
+    <EmbeddedResource Include="MainWin.resx">
+      <DependentUpon>MainWin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIClass\AboutARDrone.resx">
+      <DependentUpon>AboutARDrone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIClass\GraphHistory.resx">
+      <DependentUpon>GraphHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIClass\JoystickDroneWin.resx">
+      <DependentUpon>JoystickDroneWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIClass\OculusWin.resx">
+      <DependentUpon>OculusWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIClass\SplashScreenDrone.resx">
+      <DependentUpon>SplashScreenDrone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIClass\Win3DPlot.resx">
+      <DependentUpon>Win3DPlot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIClass\WinFullScreen.resx">
+      <DependentUpon>WinFullScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ar.drone_user-guide_uk.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\droneInit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AR.Drone.Avionics\AR.Drone.Avionics.csproj">
+      <Project>{19B1D7B1-C46F-4A87-A674-3350BF372A74}</Project>
+      <Name>AR.Drone.Avionics</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\AR.Drone.Client\AR.Drone.Client.csproj">
+      <Project>{56DBF8E3-28A6-4C27-BA0A-B32352608F44}</Project>
+      <Name>AR.Drone.Client</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\AR.Drone.Data\AR.Drone.Data.csproj">
+      <Project>{7D1B0B10-82F9-413F-BEE9-0174753D93A1}</Project>
+      <Name>AR.Drone.Data</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\AR.Drone.Infrastructure\AR.Drone.Infrastructure.csproj">
+      <Project>{5BE68B3D-1112-464D-8C17-844E834BB3BA}</Project>
+      <Name>AR.Drone.Infrastructure</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\AR.Drone.Media\AR.Drone.Media.csproj">
+      <Project>{DD02DB21-14CF-4E03-BEE2-AFB2B1C49A4D}</Project>
+      <Name>AR.Drone.Media</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\AR.Drone.Video\AR.Drone.Video.csproj">
+      <Project>{36C63293-4C2D-41EC-B231-FAF55845C014}</Project>
+      <Name>AR.Drone.Video</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\data\OculusDrone\VSMVrDemo\OculusDrone.csproj">
+      <Project>{84E167E6-D394-49CA-B813-3B4CFFC4B7E2}</Project>
+      <Name>OculusDrone</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\UI.LedControl\UI.LedControl\UI.Control.csproj">
+      <Project>{41EA39FA-7835-472F-80D4-FE6EB37E197F}</Project>
+      <Name>UI.Control</Name>
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grille.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downCom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forwCom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rigthCom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftCom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rigthRCom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftRCom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neutreCom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\altiUpCom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\altiDownCom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emergency.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="arDroneIco.ico" />
+    <Content Include="netchartdir_cp.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="readme.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\splash.png" />
+    <None Include="Resources\joyHelp.png" />
+    <None Include="Resources\oculus.png" />
+    <None Include="Resources\joy2.png" />
+    <None Include="Resources\fullSc.png" />
+    <None Include="Resources\HeadingIndicator_Aircraft.bmp" />
+    <None Include="Resources\HeadingIndicator_Background.bmp" />
+    <None Include="Resources\HeadingWeel.bmp" />
+    <None Include="Resources\flat.png" />
+    <None Include="Resources\manualC.png" />
+    <None Include="Resources\joy1.png" />
+    <None Include="Resources\grah.png" />
+    <None Include="Resources\picCol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\SharpDX.2.6.0\build\SharpDX.targets" Condition="Exists('..\packages\SharpDX.2.6.0\build\SharpDX.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

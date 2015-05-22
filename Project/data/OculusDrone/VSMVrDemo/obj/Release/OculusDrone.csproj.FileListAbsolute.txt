@@ -1,0 +1,52 @@
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\log4net.dll
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.dll
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Interface.dll
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\SharpDX.dll
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.x64.dll
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Win32.dll
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\log4net.pdb
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.pdb
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Interface.pdb
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\SharpDX.xml
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.x64.pdb
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Win32.pdb
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.csproj.GenerateResource.Cache
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.Properties.Resources.resources
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\OculusDrone.exe
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\bin\Release\OculusDrone.pdb
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.exe
+C:\Users\Nicolqs\Desktop\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\OculusDrone.exe
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\OculusDrone.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\log4net.dll
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.dll
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Interface.dll
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\SharpDX.dll
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Win32.dll
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\log4net.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Interface.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\SharpDX.xml
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Win32.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.csproj.GenerateResource.Cache
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.exe
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\OculusDrone.exe
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\OculusDrone.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\log4net.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Interface.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\SharpDX.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Win32.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\log4net.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Interface.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\SharpDX.xml
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\bin\Release\RiftDotNet.Win32.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.Properties.Resources.resources
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.csproj.GenerateResource.Cache
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.exe
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.csprojResolveAssemblyReference.cache
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\data\OculusDrone\VSMVrDemo\obj\Release\OculusDrone.csprojResolveAssemblyReference.cache

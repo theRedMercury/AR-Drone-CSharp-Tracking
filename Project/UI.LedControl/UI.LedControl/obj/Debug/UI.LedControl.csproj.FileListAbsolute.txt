@@ -1,0 +1,16 @@
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\UI.LedControl\UI.LedControl\bin\Debug\UI.LedControl.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\UI.LedControl\UI.LedControl\bin\Debug\UI.LedControl.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.BatLevel.resources
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.LedControl.resources
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.csproj.GenerateResource.Cache
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.Properties.Resources.resources
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\UI.LedControl\UI.LedControl\bin\Debug\UI.LedControl.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\UI.LedControl\UI.LedControl\bin\Debug\UI.LedControl.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.BatLevel.resources
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.LedControl.resources
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.Properties.Resources.resources
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.csproj.GenerateResource.Cache
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\UI.LedControl\UI.LedControl\obj\Debug\UI.LedControl.pdb

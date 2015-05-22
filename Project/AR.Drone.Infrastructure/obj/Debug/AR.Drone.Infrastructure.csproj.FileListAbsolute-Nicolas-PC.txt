@@ -1,0 +1,17 @@
+C:\Users\Barmok\Documents\Visual Studio 2010\Projects\AR.DroneWithOpenCV\AR.Drone-master\AR.Drone.Infrastructure\bin\Debug\AR.Drone.Infrastructure.dll
+C:\Users\Barmok\Documents\Visual Studio 2010\Projects\AR.DroneWithOpenCV\AR.Drone-master\AR.Drone.Infrastructure\bin\Debug\AR.Drone.Infrastructure.pdb
+C:\Users\Barmok\Documents\Visual Studio 2010\Projects\AR.DroneWithOpenCV\AR.Drone-master\AR.Drone.Infrastructure\obj\Debug\AR.Drone.Infrastructure.dll
+C:\Users\Barmok\Documents\Visual Studio 2010\Projects\AR.DroneWithOpenCV\AR.Drone-master\AR.Drone.Infrastructure\obj\Debug\AR.Drone.Infrastructure.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetAR.DroneA.L\AR.Drone-master\AR.Drone.Infrastructure\bin\Debug\AR.Drone.Infrastructure.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetAR.DroneA.L\AR.Drone-master\AR.Drone.Infrastructure\bin\Debug\AR.Drone.Infrastructure.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetAR.DroneA.L\AR.Drone-master\AR.Drone.Infrastructure\obj\Debug\AR.Drone.Infrastructure.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetAR.DroneA.L\AR.Drone-master\AR.Drone.Infrastructure\obj\Debug\AR.Drone.Infrastructure.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetAR.DroneA.L\AR.Drone-master\AR.Drone.Infrastructure\obj\Debug\AR.Drone.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Infrastructure\bin\Debug\AR.Drone.Infrastructure.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Infrastructure\bin\Debug\AR.Drone.Infrastructure.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Infrastructure\obj\Debug\AR.Drone.Infrastructure.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Infrastructure\obj\Debug\AR.Drone.Infrastructure.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Infrastructure\bin\Debug\AR.Drone.Infrastructure.dll
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Infrastructure\bin\Debug\AR.Drone.Infrastructure.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Infrastructure\obj\Debug\AR.Drone.Infrastructure.dll
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Infrastructure\obj\Debug\AR.Drone.Infrastructure.pdb

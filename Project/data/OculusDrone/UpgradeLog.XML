@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VSMVrDemo">
+</Property><Property Name="Solution File" Value="C:\Users\Nicolqs\Desktop\VSMVrDemo\VSMVrDemo.sln">
+</Property><Property Name="Date" Value="dimanche 26 avril 2015">
+</Property><Property Name="Time" Value="09:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="VSMVrDemo.sln" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo.sln">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\VSMVrDemo.csproj" Description="Project file successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\VSMVrDemo.csproj">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\App.xaml.cs" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\MainWindow.xaml.cs" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\MainWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\App.config" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\App.config">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\App.xaml" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\App.xaml">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\MainWindow.xaml" Description="File successfully backed up as C:\Users\Nicolqs\Desktop\VSMVrDemo\Backup\VSMVrDemo\MainWindow.xaml">
+</Event><Event ErrorLevel="0" Project="VSMVrDemo" Source="VSMVrDemo\VSMVrDemo.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VSMVrDemo" Source="VSMVrDemo\VSMVrDemo.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="VSMVrDemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VSMVrDemo.sln" Description="Converted">
+</Event></UpgradeLog>

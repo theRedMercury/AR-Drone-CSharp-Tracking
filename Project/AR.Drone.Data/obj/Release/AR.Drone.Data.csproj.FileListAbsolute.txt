@@ -1,0 +1,8 @@
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Data\bin\Release\AR.Drone.Data.dll
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Data\bin\Release\AR.Drone.Data.pdb
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Data\obj\Release\AR.Drone.Data.dll
+C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Data\obj\Release\AR.Drone.Data.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Data\bin\Release\AR.Drone.Data.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Data\bin\Release\AR.Drone.Data.pdb
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Data\obj\Release\AR.Drone.Data.dll
+C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\AR.Drone.Data\obj\Release\AR.Drone.Data.pdb
