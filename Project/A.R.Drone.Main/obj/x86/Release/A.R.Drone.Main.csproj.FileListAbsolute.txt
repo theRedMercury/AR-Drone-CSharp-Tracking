@@ -102,3 +102,6 @@ C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.
 C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\A.R.Drone.Main\bin\Release\A.R.Drone.Main.pdb
 C:\Users\Nicolqs\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\A.R.Drone.Main\bin\Release\readme.txt
 C:\Users\Nicolas\OneDrive\ISIB\Bureau d'etude\Drone Parrot\ProjetA.R.DroneN.M\A.R.Drone\A.R.Drone.Main\bin\Release\readme.txt
+C:\Users\Nicolqs\Documents\GitHub\AR Drone CSharp Tracking\Project\A.R.Drone.Main\bin\Release\A.R.Drone.Main.exe.config
+C:\Users\Nicolqs\Documents\GitHub\AR Drone CSharp Tracking\Project\A.R.Drone.Main\obj\x86\Release\A.R.Drone.Main.exe
+C:\Users\Nicolqs\Documents\GitHub\AR Drone CSharp Tracking\Project\A.R.Drone.Main\obj\x86\Release\A.R.Drone.Main.pdb

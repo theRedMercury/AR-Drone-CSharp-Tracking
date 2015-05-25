@@ -617,12 +617,12 @@ namespace A.R.Drone.Main
 
                         if (airDetected > this.airMaxRange)
                         {
-                            pitchV = (((airDetected) - this.airMaxRange) * 0.3f) / 100000.0f;
+                            pitchV = (((airDetected) - this.airMaxRange) * 0.22f) / 100000.0f;
                             //this.BackDrone();
                         }
                         if (airDetected < this.airMinRange)
                         {
-                            pitchV = (((airDetected) - this.airMinRange) * 0.2f) / 10000.0f;
+                            pitchV = (((airDetected) - this.airMinRange) * 0.16f) / 10000.0f;
                             //this.ForwardDrone();
                         }
                         if (pitchV > 1.0f || pitchV < -1.0f)

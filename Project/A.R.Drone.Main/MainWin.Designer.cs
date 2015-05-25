@@ -589,9 +589,9 @@ namespace A.R.Drone.Main
             this.label7.ForeColor = System.Drawing.Color.Gold;
             this.label7.Location = new System.Drawing.Point(12, 202);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(45, 20);
+            this.label7.Size = new System.Drawing.Size(51, 20);
             this.label7.TabIndex = 28;
-            this.label7.Text = "Aire :";
+            this.label7.Text = "Area :";
             // 
             // hScrollAirMin
             // 
@@ -613,7 +613,7 @@ namespace A.R.Drone.Main
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(160, 20);
             this.label6.TabIndex = 26;
-            this.label6.Text = "Rectangle détection :";
+            this.label6.Text = "Rectangle detection :";
             // 
             // ScrollBarRectRange
             // 
